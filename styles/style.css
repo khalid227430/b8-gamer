@@ -1,0 +1,416 @@
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.banner-1{
+    font-size: 18px;
+    font-weight: 500;
+    display: flex;
+    gap: 32px;
+    list-style: none;
+    align-items: center;
+}
+.banner-2{
+    display: flex;
+}
+.banner-card{
+    display: flex;
+}
+    .banner-card img{
+    width: 700px;  
+    height: 500px; 
+    display: flex;
+    justify-content: space-between; 
+    }
+    .banner-text{
+        position: absolute;
+        top: 15%;
+        text-align: center;
+        margin-left: 50px;
+        
+    }
+    .first{
+        text-align: center;
+        color:rgb(26, 5, 26);
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+
+    }
+    .second{
+        text-align: center;
+font-size: 70px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+        background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+    }
+
+.img-game{
+    width: 60px;
+    height: 30px;
+}
+    .grp-18{
+width: 501px;
+height: 300px;
+    }
+    
+.banner-card> grp-18 {
+    justify-content: space-between;
+    display: inline;
+}
+
+    
+  nav{
+align-items: center;
+  }  
+
+
+
+nav li a{
+    text-decoration: none;
+    
+}
+.li{
+    color:black;
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.sp{
+    color: deeppink;
+}
+sp-1{
+font-size: 45px;
+font-style: italic;
+font-weight: 700;
+align-items: center;
+
+}
+nav{
+    align-items: center;
+}
+
+.btn-primary{
+    background-color: rgb(238, 20, 136);
+    color:white ;
+    display: inline-flex;
+padding: 20px 40px;
+align-items: flex-start;
+gap: 12px;
+}
+.btn-secondery{
+    background-color: rgb(37, 37, 236);
+    color: white;
+    display: inline-flex;
+    padding: 20px 40px;
+    align-items: flex-start;
+    gap: 12px;
+}
+.btn-thirdy{
+    background-color: deeppink;
+    color: white;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+display: inline-flex;
+padding: 20px 40px;
+align-items: flex-start;
+gap: 10px;
+align-items: center;
+
+
+}
+.third{
+  display: flex;  
+}
+.third-3{
+    width: 650px;
+    height: 360px;
+}
+.section-4{
+    text-align: center;
+    
+
+
+}
+.txt-1{
+ text-align: center;   
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+color: rgb(104, 19, 19)
+}
+.txt-2{
+    color: rgb(20, 3, 3);
+text-align: center
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.txt-4{
+
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;   
+}
+
+.txt-5{
+    color: rgb(85, 20, 85);
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+}
+.part-1{
+    display: flex;
+    margin-right: 20px;
+}
+.m-1{
+    margin: 20px;
+    
+}
+.m-2{
+    margin: 20px;
+}
+.m-3{
+    margin: 20px;
+}
+.m-4{
+    margin: 20px;
+}
+.dew{
+    color:rgb(233, 74, 172) ;
+}
+.khalid{
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 120px;
+    top left: left:auto ;
+}
+.shabnaz{
+  position: relative;
+  margin-top: 30px;
+  margin: bottom 60px; 
+   top left: auto;
+}
+.heavens{
+    width: 550px;
+    height: 560px;
+}
+.pera-1{
+    position: absolute;
+}
+.pera-2{
+    position: relative;
+    padding: 500px;
+}
+.pera-3{
+    display: flex;
+    margin: 40px;
+    justify-content: center;
+}
+.b-1{
+    margin-right: 20px;
+    display: flex;
+    
+
+}
+.b-1:hover{
+border:blue solid;
+border-radius: 35%;
+}
+.b-2{
+    margin-right: 20px;
+    display: flex;
+    gap: 20px;
+}
+.b-2:hover{
+    border:blue solid;
+    border-radius: 15%;
+    }
+    
+.b-3{
+    margin-left: 20px;
+    display: flex;
+}
+    .b-3:hover{
+        border:blue solid;
+        border-radius: 35%;
+        }
+
+.b-4{
+    margin-left: 20px;
+    display: flex;
+}
+.b-4:hover{
+    border:blue solid;
+    border-radius: 35%;
+    }
+
+.b-5{
+    margin-left: 20px;
+    display: flex;
+}
+.b-5:hover{
+    border:blue solid;
+    border-radius: 35%;
+    }
+.pera-4{
+    display: flex;
+    margin: 40px;
+    justify-content: center; 
+}
+.b-6{
+    margin-left: 20px;
+    display: flex;
+}
+.b-6:hover{
+    border:blue solid;
+    border-radius: 35%;
+    }
+.b-7{
+    margin-left: 20px;
+    display: flex;
+}
+.b-7:hover{
+    border:blue solid;
+    border-radius: 35%;
+    }
+.b-8{
+    margin-left: 20px;
+    display: flex;
+}
+.b-8:hover{
+    border:blue solid;
+    border-radius: 35%;
+    }
+.b-9{
+    margin-left: 20px;
+    display: flex;
+}
+.b-9:hover{
+    border:blue solid;
+    border-radius: 35%;
+    }
+    .the-end{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .end{
+        color: aliceblue;
+
+    }
+    .end-1{
+    
+        display: flex;
+        color:azure ;
+        justify-content: center;
+    }
+    .the-end-pro{
+        background-color: black;
+
+        padding-bottom: 50px;
+    }
+    .h1{
+        margin-left: 20px;
+    }
+    .h2{
+        margin-left: 20px;
+    }
+    .h3{
+        margin-left: 20px;   
+    }
+.h4{
+    margin-left: 20px;
+}
+.h5{
+    margin-left: 20px;
+}
+.h6{
+    margin-left: 20px;
+}
+.end99{
+    display: flex;
+    justify-content: center;
+}
+.fb{
+    width:  40px;
+    height: 40px;
+}
+    .twt{
+width:40px;
+height: 40px;
+    }
+    .ins{
+        width:40px;
+        height: 40px;   
+    }
+    .yt{
+        width:40px;
+height: 40px;
+    }
+    .end-img-1{
+        margin-right: 20px;
+    }
+    .end-img-2{
+        margin-right: 20px;
+    }
+    .end-img-3{
+        margin-right: 20px;
+    }
+
+    .end-img-4{
+        margin-right: 20px;
+    }
+.last{
+    color: rgb(144, 150, 150);
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.last-1{
+    margin-right: 20px;
+}
+.last-2{
+    margin-right: 20px;
+}
+.last-3{
+    margin-right: 20px;
+}
+.last-4{
+    margin-right: 20px;
+}
+.atlast{
+  color: rgb(144, 150, 150);
+  margin-bottom: 40px; 
+  text-align: center;
+}
+.star-1{
+    position: absolute;
+    width: 100%;
+}
+.star{
+    width: 300px;
+}
+
+@media screen and (max-width: 576px) {
+
+ .part-1{
+    flex-direction: column;
+ } 
+ .banner{
+    flex-direction: column;
+ }  
+}
+
