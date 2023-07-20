@@ -9,19 +9,33 @@
     display: flex;
     gap: 32px;
     list-style: none;
-    align-items: center;
+    
 }
 .banner-2{
     display: flex;
+    align-items: center;
 }
 .banner-card{
     display: flex;
+    
+}
+.btn-5{
+    background-color: darkgrey;
+    color: rgb(39, 37, 37);
+}
+.you{
+    width: 30px;
+    height: 22px;
+}
+.tiktok{
+    width: 30px;
+    height: 22px;  
 }
     .banner-card img{
     width: 700px;  
     height: 500px; 
     display: flex;
-    justify-content: space-between; 
+    justify-content:space-between; 
     }
     .banner-text{
         position: absolute;
@@ -137,10 +151,16 @@ align-items: center;
     height: 360px;
 }
 .section-4{
-    text-align: center;
-    
+ align-items: center;
+ justify-content: space-between;   
 
-
+}
+.section-5{
+ text-align: center; 
+ justify-content: center;  
+}
+.section-6{
+    align-items: center;
 }
 .txt-1{
  text-align: center;   
@@ -411,6 +431,54 @@ height: 40px;
  } 
  .banner{
     flex-direction: column;
- }  
+ } 
+ .banner-text{
+    flex-direction: column;
+ } 
+ .banner-card{
+    flex-direction: column;
+ }
+ .res{
+    flex-direction: column;
+ }
+ .selfish{
+    flex-direction: column;
+ }
+ .pera-3{
+    flex-direction: column;
+ }
+ .pera-4{
+    flex-direction: column;
+ }
+ .the-end{
+    flex-direction: column;
+ }
+ .end-1{
+    flex-direction: column;
+ }
+    .end-99{
+flex-direction: column;
+    }
+    .end-img-1{
+        flex-direction: column;
+    
+    }
+    .end-img-2{
+        flex-direction: column;
+    }
+    .end-img-3{
+        flex-direction: column;
+    }
+    .end-img-4{
+        flex-direction: column;
+    }
+
+ .last{
+    flex-direction: column;
+ }
+ .atlast{
+    flex-direction: column;
+ }
+
 }
 
